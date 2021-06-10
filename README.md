@@ -1,1 +1,1 @@
-# AI_Project-Mancala-Game-
+# AI_Project(Mancala-Game)
