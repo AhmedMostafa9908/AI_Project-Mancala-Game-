@@ -1,7 +1,7 @@
 # AI_Project(Mancala-Game)
 The youtube video link https://www.youtube.com/watch?v=qm2PAjfG6AI
 
-#The description
+# The description
 1- Our game support:
      1.1- Human vs Human 
      1.2- Human vs AI
