@@ -14,6 +14,10 @@ The youtube video link https://www.youtube.com/watch?v=qm2PAjfG6AI
 
    depend on the depth of of the algorithm
 
-3- Our game have stealing mode and no stealing mode
+3- Our game have two modes:
+
+    3.1- Stealing mode 
+   
+    3.2- No stealing mode
  
 4- We can chose which player to start
